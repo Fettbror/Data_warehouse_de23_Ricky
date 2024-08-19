@@ -1,2 +1,3 @@
-# Data_warehouse_de23_Ricky
-Data_warehouse_de23_Ricky
+Data warehouse lifecycle course
+
+I learn data warehhouse here
