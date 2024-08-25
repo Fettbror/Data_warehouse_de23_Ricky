@@ -78,4 +78,9 @@ System Information and Control
     sudo [command]: Runs a command with administrative privileges (superuser). This is often used for system-level tasks.
 
 
+Exemplel för att kunna fixa en ny fil i directory ::
+Fettbror@DESKTOP-FC56JLT MINGW64 ~/Documents/GitHubBash/Data_warehouse_de23_Ricky (main)
+$ touch code_alongs/05_crunchbase.sql
+
+
 Jag har även installerat och förstått hur snowflake fungerar.  att man måste få in directory för att integrera via VScode. Vi har även gått bekantat mig med Snowflake GUI

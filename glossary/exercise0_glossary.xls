@@ -1,0 +1,29 @@
+terminology         explanation
+downstream          The flow of data from a source to a destination or consumer.
+upstream            The flow of data from a destination or consumer to a source.
+data warehouse      A centralized repository of integrated and structured data from various sources.
+cloud computing     The delivery of computing services over the internet, including storage, databases, and applications.
+modern data stack   A collection of technologies and tools used for data processing and analysis.
+idempotent          An operation that can be applied multiple times without changing the result after the initial application.
+OLAP                Online Analytical Processing, a technology used for analyzing and querying multidimensional data.
+OLTP                Online Transaction Processing, a technology used for managing and processing transactional data.
+virtual warehouse   A logical representation of computing resources used for data processing in a cloud-based environment.
+external stage      A storage location outside of a data warehouse where data can be loaded or unloaded.
+data consumer       An entity or system that consumes or utilizes data from a data source or data warehouse.
+scaling out         Increasing the capacity of a system by adding more resources or nodes.
+scaling up          Increasing the capacity of a system by upgrading the existing resources or nodes.
+snowflake credit    A unit of measurement for resource usage in the Snowflake data warehouse.
+securable object    An object in a database that can be secured and controlled through access permissions.
+snowflake object    An object in the Snowflake data warehouse, such as a table, view, or stored procedure.
+schema              A logical container that holds database objects, such as tables, views, and functions.
+permanent table     A table in a database that stores data persistently.
+transient table     A temporary table in a database that holds data temporarily and is automatically dropped after a session or transaction.
+temporary table     A table in a database that holds data temporarily and is automatically dropped at the end of a session or transaction.
+time-travel         The ability to query data as it existed at a specific point in the past in a data warehouse.
+fail-safe           A mechanism or feature that ensures the system continues to operate even in the event of failures.
+view                A virtual table created by a query that can be used like a regular table.
+table               A structured collection of data organized in rows and columns.
+DML                 Data Manipulation Language, a language used to retrieve, insert, update, and delete data in a database.
+DDL                 Data Definition Language, a language used to define and manage database objects.
+DQL                 Data Query Language, a language used to retrieve data from a database.
+DCL                 Data Control Language, a language used to control access and permissions in a database.
